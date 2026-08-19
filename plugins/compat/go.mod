@@ -5,7 +5,7 @@ go 1.26.5
 require (
 	github.com/bytedance/sonic v1.15.2
 	github.com/maximhq/bifrost/core v1.7.11
-	github.com/maximhq/bifrost/framework v1.5.9
+	github.com/maximhq/bifrost/framework v1.5.10
 )
 
 require (
